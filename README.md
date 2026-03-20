@@ -48,3 +48,7 @@ This project analyzes Disney+ content engagement to understand **user preference
 
 - Use real-world datasets for deeper analysis
 
+- ## Author
+- Diya Prithiani
+- 
+
