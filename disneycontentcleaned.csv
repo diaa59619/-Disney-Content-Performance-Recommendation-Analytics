@@ -1,0 +1,191 @@
+User_ID,Content_Name,Genre,Watch_Time,Completion_%,Rating,Region,Recommended_Genre,Recommended_Content,Engagement_Score,Recommendation_Strength,Binge_Watch,Popularity_Score
+1,Moana,Marvel,189,72,4.6,India,Marvel,Moana,122.80000000000001,61.7,True,21
+2,Rogue One,Star Wars,271,70,3.8,Singapore,Star Wars,Rogue One,151.6,77.1,True,17
+3,The Lion King,Pixar,276,90,3.5,India,Pixar,The Lion King,160.4,83.95,True,21
+4,Moana,NatGeo,193,65,3.5,India,NatGeo,Moana,117.2,59.85,True,21
+5,Coco,Disney,169,36,2.3,India,Disney,Coco,91.20000000000002,45.75,False,12
+6,Avengers: Endgame,Marvel,105,54,4.3,Singapore,Marvel,Avengers: Endgame,80.8,39.349999999999994,False,18
+7,The Lion King,NatGeo,77,46,5.0,Thailand,NatGeo,The Lion King,69.2,31.699999999999996,False,21
+8,Avengers: Endgame,NatGeo,131,76,2.6,Singapore,NatGeo,Avengers: Endgame,93.20000000000002,50.300000000000004,False,18
+9,Rogue One,NatGeo,106,77,2.8,Malaysia,NatGeo,Rogue One,84.4,45.7,False,17
+10,The Lion King,Disney,180,62,3.7,Thailand,Disney,The Lion King,111.6,56.45,False,21
+11,Frozen II,Marvel,101,100,4.0,Singapore,Marvel,Frozen II,96.4,52.2,False,15
+12,Rogue One,Disney,65,91,2.8,Indonesia,Disney,Rogue One,73.6,41.7,False,17
+13,Frozen II,Pixar,166,35,2.7,Singapore,Pixar,Frozen II,91.2,45.050000000000004,False,15
+14,Guardians of the Galaxy,Marvel,165,89,4.2,India,Marvel,Guardians of the Galaxy,118.39999999999999,61.8,False,15
+15,Toy Story 4,Marvel,140,68,2.5,Indonesia,Marvel,Toy Story 4,93.2,49.65,False,13
+16,Guardians of the Galaxy,NatGeo,92,65,5.0,Indonesia,NatGeo,Guardians of the Galaxy,82.80000000000001,40.400000000000006,False,15
+17,Avengers: Endgame,Disney,177,39,4.3,Thailand,Disney,Avengers: Endgame,103.60000000000001,49.25,False,18
+18,Incredibles 2,Disney,119,61,4.6,India,Disney,Incredibles 2,90.4,44.400000000000006,False,18
+19,Black Panther,Star Wars,232,93,3.2,Thailand,Star Wars,Black Panther,142.8,75.9,True,16
+20,Guardians of the Galaxy,NatGeo,125,81,5.0,Singapore,NatGeo,Guardians of the Galaxy,102.4,51.8,False,15
+21,Rogue One,Marvel,111,71,2.9,India,Marvel,Rogue One,84.4,44.95,False,17
+22,Moana,Pixar,54,91,5.0,Indonesia,Pixar,Moana,78.0,40.6,False,21
+23,Incredibles 2,Pixar,144,95,4.4,India,Pixar,Incredibles 2,113.19999999999999,59.5,False,18
+24,Toy Story 4,Star Wars,98,82,5.0,Malaysia,Star Wars,Toy Story 4,92.0,46.7,False,13
+25,Moana,Star Wars,147,100,1.4,Singapore,Star Wars,Moana,104.4,60.1,False,21
+26,Guardians of the Galaxy,Star Wars,215,76,3.7,Singapore,Star Wars,Guardians of the Galaxy,131.20000000000002,67.65,True,15
+27,Moana,Star Wars,157,35,3.8,India,Star Wars,Moana,92.00000000000001,43.800000000000004,False,21
+28,Coco,Pixar,178,100,3.5,Thailand,Pixar,Coco,125.2,67.35,False,12
+29,Rogue One,Pixar,85,64,4.9,Singapore,Pixar,Rogue One,79.2,38.65,False,17
+30,National Geographic: Oceans,Disney,176,64,4.5,Indonesia,Disney,National Geographic: Oceans,114.0,56.650000000000006,False,12
+31,Moana,NatGeo,157,94,3.3,Singapore,NatGeo,Moana,113.60000000000001,61.25,False,21
+32,Moana,Star Wars,123,67,2.5,India,Star Wars,Moana,86.0,45.95,False,21
+33,The Lion King,Marvel,173,80,4.0,Indonesia,Marvel,The Lion King,117.2,60.6,False,21
+34,Toy Story 4,Star Wars,131,46,3.6,India,Star Wars,Toy Story 4,85.20000000000002,41.800000000000004,False,13
+35,The Lion King,NatGeo,122,58,3.8,Indonesia,NatGeo,The Lion King,87.2,43.7,False,21
+36,The Lion King,Disney,182,100,4.2,Malaysia,Disney,The Lion King,129.6,68.5,True,21
+37,Moana,Disney,170,73,2.1,Singapore,Disney,Moana,105.60000000000001,56.95,False,21
+38,Frozen II,Pixar,147,76,5.0,Singapore,Pixar,Frozen II,109.2,54.7,False,15
+39,Rogue One,NatGeo,134,81,4.0,Thailand,NatGeo,Rogue One,102.0,53.1,False,17
+40,Frozen II,NatGeo,56,97,4.8,Malaysia,NatGeo,Frozen II,80.4,42.699999999999996,False,15
+41,Coco,Disney,213,56,5.0,Indonesia,Disney,Coco,127.60000000000001,61.900000000000006,True,12
+42,The Lion King,Pixar,37,86,5.0,Thailand,Pixar,The Lion King,69.2,35.7,False,21
+43,National Geographic: Oceans,Marvel,70,63,4.1,India,Marvel,National Geographic: Oceans,69.60000000000001,34.95,False,12
+44,Incredibles 2,Pixar,109,43,4.1,Singapore,Pixar,Incredibles 2,77.2,36.75,False,18
+45,Moana,Disney,65,84,3.1,Thailand,Disney,Moana,72.0,39.75,False,21
+46,Incredibles 2,Disney,273,59,3.7,Malaysia,Disney,Incredibles 2,147.60000000000002,74.15,True,18
+47,Coco,Disney,215,50,4.2,Thailand,Disney,Coco,122.8,60.1,True,12
+48,Frozen II,NatGeo,254,42,4.2,India,NatGeo,Frozen II,135.20000000000002,65.5,True,15
+49,Moana,Marvel,170,90,2.8,Thailand,Marvel,Moana,115.2,62.4,False,21
+50,Frozen II,Star Wars,44,85,4.3,India,Star Wars,Frozen II,68.8,36.45,False,15
+51,Frozen II,Disney,170,81,3.3,Singapore,Disney,Frozen II,113.60000000000001,59.95,False,15
+52,National Geographic: Oceans,Marvel,168,80,3.3,Indonesia,Marvel,National Geographic: Oceans,112.4,59.25,False,12
+53,Black Panther,Pixar,299,84,2.8,Thailand,Pixar,Black Panther,164.4,86.4,True,16
+54,Incredibles 2,Star Wars,202,55,4.8,Thailand,Star Wars,Incredibles 2,122.00000000000001,59.300000000000004,True,18
+55,Coco,Pixar,242,58,5.0,Singapore,Pixar,Coco,140.0,68.30000000000001,True,12
+56,Guardians of the Galaxy,Pixar,183,91,5.0,Thailand,Pixar,Guardians of the Galaxy,129.6,66.4,True,15
+57,Black Panther,Marvel,130,59,3.1,Thailand,Marvel,Black Panther,88.0,45.25,False,16
+58,Guardians of the Galaxy,Disney,84,73,4.3,India,Disney,Guardians of the Galaxy,80.0,40.849999999999994,False,15
+59,Incredibles 2,Star Wars,172,91,4.0,Indonesia,Star Wars,Incredibles 2,121.19999999999999,63.7,False,18
+60,The Lion King,Marvel,266,69,5.0,Singapore,Marvel,The Lion King,154.0,76.4,True,21
+61,Coco,Marvel,200,57,2.9,India,Marvel,Coco,114.4,58.55,True,12
+62,Rogue One,Disney,188,70,4.7,India,Disney,Rogue One,122.0,60.95,True,17
+63,Black Panther,Pixar,187,73,3.2,Singapore,Pixar,Black Panther,116.8,60.9,True,16
+64,Moana,Disney,28,66,4.9,Thailand,Disney,Moana,57.2,27.85,False,21
+65,Star Wars: A New Hope,Star Wars,167,50,4.2,Thailand,Star Wars,Star Wars: A New Hope,103.6,50.5,False,12
+66,Coco,Disney,180,57,4.2,Singapore,Disney,Coco,111.6,55.2,False,12
+67,Black Panther,Pixar,154,52,4.4,Indonesia,Pixar,Black Panther,100.0,48.6,False,16
+68,Toy Story 4,Star Wars,194,96,5.0,Malaysia,Star Wars,Toy Story 4,136.0,70.1,True,13
+69,Black Panther,Disney,39,56,4.5,India,Disney,Black Panther,56.0,26.85,False,16
+70,The Lion King,Pixar,191,85,5.0,India,Pixar,The Lion King,130.4,66.2,True,21
+71,Guardians of the Galaxy,Marvel,195,97,5.0,Thailand,Marvel,Guardians of the Galaxy,136.8,70.6,True,15
+72,Black Panther,Pixar,202,68,4.8,Thailand,Pixar,Black Panther,127.20000000000002,63.2,True,16
+73,The Lion King,Marvel,88,70,3.5,India,Marvel,The Lion King,77.2,40.35,False,21
+74,Rogue One,Marvel,156,100,2.1,Singapore,Marvel,Rogue One,110.80000000000001,62.25,False,17
+75,Incredibles 2,Marvel,204,42,3.5,Indonesia,Marvel,Incredibles 2,112.4,55.150000000000006,True,18
+76,Incredibles 2,NatGeo,237,76,2.9,Singapore,NatGeo,Incredibles 2,136.8,71.65,True,18
+77,Frozen II,Disney,92,88,3.3,Singapore,Disney,Frozen II,85.2,46.45,False,15
+78,Black Panther,Pixar,167,75,3.3,Thailand,Pixar,Black Panther,110.0,57.55,False,16
+79,Coco,Disney,321,87,2.0,Singapore,Disney,Coco,171.20000000000002,91.3,True,12
+80,National Geographic: Oceans,Disney,164,61,4.9,Singapore,Disney,National Geographic: Oceans,109.60000000000002,53.550000000000004,False,12
+81,Incredibles 2,Marvel,86,72,4.5,Malaysia,Marvel,Incredibles 2,81.2,41.05,False,18
+82,Guardians of the Galaxy,Disney,219,50,3.7,Malaysia,Disney,Guardians of the Galaxy,122.4,60.650000000000006,True,15
+83,National Geographic: Oceans,Marvel,112,61,5.0,India,Marvel,National Geographic: Oceans,89.2,43.2,False,12
+84,Avengers: Endgame,Disney,182,49,4.9,Indonesia,Disney,Avengers: Endgame,112.0,53.55,True,18
+85,Incredibles 2,Pixar,319,95,2.5,Singapore,Pixar,Incredibles 2,175.60000000000002,93.55000000000001,True,18
+86,The Lion King,NatGeo,111,100,3.3,Malaysia,NatGeo,The Lion King,97.60000000000001,53.85,False,21
+87,Star Wars: A New Hope,Disney,185,90,3.1,Singapore,Disney,Star Wars: A New Hope,122.4,65.55,True,12
+88,Frozen II,Disney,145,20,3.0,Singapore,Disney,Frozen II,78.0,36.5,False,15
+89,Incredibles 2,Disney,129,50,5.0,Thailand,Disney,Incredibles 2,91.6,43.3,False,18
+90,Incredibles 2,Marvel,35,66,4.1,Thailand,Marvel,Incredibles 2,56.80000000000001,28.85,False,18
+91,Avengers: Endgame,Marvel,265,46,5.0,Singapore,Marvel,Avengers: Endgame,144.4,69.3,True,18
+92,Star Wars: A New Hope,Disney,150,55,4.5,Malaysia,Disney,Star Wars: A New Hope,100.0,48.75,False,12
+93,National Geographic: Oceans,Pixar,165,62,4.1,Malaysia,Pixar,National Geographic: Oceans,107.2,53.65,False,12
+94,Avengers: Endgame,Pixar,119,77,4.7,Malaysia,Pixar,Avengers: Endgame,97.2,49.25,False,18
+95,Avengers: Endgame,Disney,276,50,5.0,Indonesia,Disney,Avengers: Endgame,150.4,72.7,True,18
+96,National Geographic: Oceans,Star Wars,5,71,4.6,Malaysia,Star Wars,National Geographic: Oceans,48.800000000000004,24.6,False,12
+97,Rogue One,NatGeo,172,62,3.8,Malaysia,NatGeo,Rogue One,108.8,54.89999999999999,False,17
+98,Star Wars: A New Hope,Pixar,110,63,4.8,Indonesia,Pixar,Star Wars: A New Hope,88.4,43.3,False,12
+99,The Lion King,Marvel,178,61,4.9,Thailand,Marvel,The Lion King,115.20000000000002,56.35,False,21
+100,Rogue One,NatGeo,174,91,4.6,India,NatGeo,Rogue One,124.4,64.4,False,17
+101,Rogue One,Star Wars,83,63,4.7,India,Star Wars,Rogue One,77.2,37.85,False,17
+102,Avengers: Endgame,NatGeo,198,74,4.1,Malaysia,NatGeo,Avengers: Endgame,125.20000000000002,63.85,True,18
+103,Black Panther,NatGeo,252,63,4.5,Singapore,NatGeo,Black Panther,144.0,71.55000000000001,True,16
+104,Avengers: Endgame,NatGeo,133,70,5.0,India,NatGeo,Avengers: Endgame,101.2,50.1,False,18
+105,Star Wars: A New Hope,Marvel,216,91,5.0,Thailand,Marvel,Star Wars: A New Hope,142.8,73.0,True,12
+106,Incredibles 2,Pixar,151,88,3.7,Malaysia,Pixar,Incredibles 2,110.4,58.45,False,18
+107,Incredibles 2,NatGeo,175,72,4.1,Singapore,NatGeo,Incredibles 2,115.2,58.65,False,18
+108,Coco,NatGeo,197,58,5.0,India,NatGeo,Coco,122.00000000000001,59.300000000000004,True,12
+109,Coco,Marvel,69,50,5.0,Malaysia,Marvel,Coco,67.6,31.3,False,12
+110,Moana,NatGeo,213,87,4.6,Thailand,NatGeo,Moana,138.4,71.0,True,21
+111,Black Panther,Star Wars,149,57,4.1,Indonesia,Star Wars,Black Panther,98.80000000000001,48.95,False,16
+112,The Lion King,Star Wars,95,94,3.9,Singapore,Star Wars,The Lion King,91.19999999999999,49.15,False,21
+113,Frozen II,Disney,83,68,4.4,Singapore,Disney,Frozen II,78.0,39.2,False,15
+114,Moana,Star Wars,104,58,4.2,Malaysia,Star Wars,Moana,81.60000000000001,40.3,False,21
+115,Guardians of the Galaxy,Marvel,169,64,3.5,India,Marvel,Guardians of the Galaxy,107.20000000000002,54.75,False,15
+116,National Geographic: Oceans,NatGeo,168,46,2.6,Thailand,NatGeo,National Geographic: Oceans,96.00000000000001,48.7,False,12
+117,Incredibles 2,Marvel,92,70,4.3,Thailand,Marvel,Incredibles 2,82.00000000000001,41.55,False,18
+118,The Lion King,NatGeo,268,92,3.8,Indonesia,NatGeo,The Lion King,159.2,83.1,True,21
+119,Star Wars: A New Hope,Star Wars,148,54,4.0,India,Star Wars,Star Wars: A New Hope,96.80000000000001,47.8,False,12
+120,The Lion King,Star Wars,126,81,3.2,Indonesia,Star Wars,The Lion King,95.60000000000001,51.10000000000001,False,21
+121,Star Wars: A New Hope,Disney,191,100,3.9,Thailand,Disney,Star Wars: A New Hope,132.0,70.15,True,12
+122,Rogue One,Star Wars,182,88,3.6,Thailand,Star Wars,Rogue One,122.4,64.6,True,17
+123,Moana,NatGeo,167,75,4.1,India,NatGeo,Moana,113.2,57.95,False,21
+124,Moana,NatGeo,88,75,4.5,Indonesia,NatGeo,Moana,83.2,42.35,False,21
+125,Moana,Marvel,266,94,5.0,Singapore,Marvel,Moana,164.0,83.9,True,21
+126,Frozen II,Marvel,88,92,4.2,India,Marvel,Frozen II,88.8,47.3,False,15
+127,Rogue One,NatGeo,325,58,3.2,Singapore,NatGeo,Rogue One,166.0,84.0,True,17
+128,Frozen II,Star Wars,102,32,3.5,Thailand,Star Wars,Frozen II,67.60000000000001,31.75,False,15
+129,The Lion King,Star Wars,89,78,4.3,Singapore,Star Wars,The Lion King,84.00000000000001,43.349999999999994,False,21
+130,Moana,Star Wars,300,94,3.4,Thailand,Star Wars,Moana,171.2,89.9,True,21
+131,National Geographic: Oceans,Star Wars,78,84,2.7,India,Star Wars,National Geographic: Oceans,75.60000000000001,42.150000000000006,False,12
+132,Incredibles 2,Disney,296,98,3.5,Indonesia,Disney,Incredibles 2,171.60000000000002,90.35,True,18
+133,Avengers: Endgame,Marvel,12,100,3.9,Indonesia,Marvel,Avengers: Endgame,60.4,34.35,False,18
+134,Star Wars: A New Hope,Star Wars,249,43,3.4,Singapore,Star Wars,Star Wars: A New Hope,130.4,64.4,True,12
+135,Rogue One,Disney,150,75,3.5,Thailand,Disney,Rogue One,104.0,54.25,False,17
+136,Rogue One,Disney,199,53,3.9,Thailand,Disney,Rogue One,116.4,57.650000000000006,True,17
+137,Avengers: Endgame,Marvel,159,85,4.7,India,Marvel,Avengers: Endgame,116.39999999999999,59.650000000000006,False,18
+138,Rogue One,Pixar,60,44,5.0,Thailand,Pixar,Rogue One,61.6,27.7,False,17
+139,Avengers: Endgame,Star Wars,176,60,5.0,Thailand,Star Wars,Avengers: Endgame,114.4,55.7,False,18
+140,Black Panther,Pixar,159,98,4.1,Malaysia,Pixar,Black Panther,119.20000000000002,63.25,False,16
+141,Star Wars: A New Hope,Marvel,314,100,3.8,Indonesia,Marvel,Star Wars: A New Hope,180.8,94.7,True,12
+142,Guardians of the Galaxy,Marvel,227,87,5.0,Indonesia,Marvel,Guardians of the Galaxy,145.60000000000002,74.0,True,15
+143,The Lion King,Pixar,72,88,5.0,India,Pixar,The Lion King,84.0,43.3,False,21
+144,Guardians of the Galaxy,NatGeo,9,51,2.0,Malaysia,NatGeo,Guardians of the Galaxy,32.0,18.099999999999998,False,15
+145,Coco,Pixar,128,89,5.0,Singapore,Pixar,Coco,106.80000000000001,54.8,False,12
+146,Star Wars: A New Hope,Pixar,155,100,2.6,Malaysia,Pixar,Star Wars: A New Hope,112.4,62.3,False,12
+147,Avengers: Endgame,Pixar,13,73,4.4,Indonesia,Pixar,Avengers: Endgame,52.00000000000001,26.7,False,18
+148,Toy Story 4,Pixar,147,33,3.9,Indonesia,Pixar,Toy Story 4,87.6,41.25,False,13
+149,Star Wars: A New Hope,Marvel,45,88,4.4,Malaysia,Marvel,Star Wars: A New Hope,70.80000000000001,37.599999999999994,False,12
+150,Avengers: Endgame,Disney,74,64,2.9,Singapore,Disney,Avengers: Endgame,66.80000000000001,35.45,False,18
+151,The Lion King,Disney,144,94,3.0,Indonesia,Disney,The Lion King,107.2,58.5,False,21
+152,Frozen II,Pixar,190,64,3.2,Singapore,Pixar,Frozen II,114.39999999999999,58.8,True,15
+153,Avengers: Endgame,Pixar,141,54,3.4,Malaysia,Pixar,Avengers: Endgame,91.6,46.1,False,18
+154,Guardians of the Galaxy,Star Wars,54,100,4.0,India,Star Wars,Guardians of the Galaxy,77.6,42.8,False,15
+155,Frozen II,Star Wars,94,79,3.9,Thailand,Star Wars,Frozen II,84.80000000000001,44.45,False,15
+156,Toy Story 4,NatGeo,132,87,4.8,Indonesia,NatGeo,Toy Story 4,106.80000000000001,54.9,False,13
+157,Avengers: Endgame,Marvel,107,63,3.7,Indonesia,Marvel,Avengers: Endgame,82.8,42.150000000000006,False,18
+158,Star Wars: A New Hope,NatGeo,5,44,5.0,Indonesia,NatGeo,Star Wars: A New Hope,39.6,16.7,False,12
+159,Avengers: Endgame,Marvel,281,70,4.6,Thailand,Marvel,Avengers: Endgame,158.8,79.5,True,18
+160,Toy Story 4,Star Wars,174,100,5.0,Indonesia,Star Wars,Toy Story 4,129.60000000000002,67.30000000000001,False,13
+161,Toy Story 4,NatGeo,139,55,2.4,Thailand,NatGeo,Toy Story 4,87.19999999999999,45.5,False,13
+162,Incredibles 2,Disney,166,59,2.6,Thailand,Disney,Incredibles 2,100.4,52.2,False,18
+163,The Lion King,Star Wars,98,53,5.0,India,Star Wars,The Lion King,80.4,38.0,False,21
+164,Rogue One,Disney,220,74,5.0,India,Disney,Rogue One,137.6,68.7,True,17
+165,Black Panther,NatGeo,156,57,5.0,Singapore,NatGeo,Black Panther,105.2,50.8,False,16
+166,Guardians of the Galaxy,Disney,193,54,3.8,India,Disney,Guardians of the Galaxy,114.00000000000001,56.7,True,15
+167,Moana,Star Wars,79,47,4.9,Thailand,Star Wars,Moana,70.0,32.35,False,21
+168,Guardians of the Galaxy,Marvel,302,47,4.6,Indonesia,Marvel,Guardians of the Galaxy,158.00000000000003,76.80000000000001,True,15
+169,Black Panther,Star Wars,97,65,3.4,Malaysia,Star Wars,Black Panther,78.4,40.6,False,16
+170,Guardians of the Galaxy,Disney,80,75,3.2,Indonesia,Disney,Guardians of the Galaxy,74.8,40.1,False,15
+171,Black Panther,Pixar,171,73,3.8,Singapore,Pixar,Black Panther,112.80000000000001,58.0,False,16
+172,Toy Story 4,Disney,77,63,4.8,Singapore,Disney,Toy Story 4,75.2,36.699999999999996,False,13
+173,Coco,NatGeo,190,55,4.1,Indonesia,NatGeo,Coco,114.4,56.55,True,12
+174,Toy Story 4,NatGeo,210,41,4.5,India,NatGeo,Toy Story 4,118.4,56.55,True,13
+175,Frozen II,Star Wars,96,86,3.2,Singapore,Star Wars,Frozen II,85.60000000000001,46.60000000000001,False,15
+176,Toy Story 4,NatGeo,5,42,4.0,Thailand,NatGeo,Toy Story 4,34.8,15.6,False,13
+177,Moana,Star Wars,170,56,4.6,Malaysia,Star Wars,Moana,108.80000000000001,53.1,False,21
+178,National Geographic: Oceans,Disney,17,73,2.8,Singapore,Disney,National Geographic: Oceans,47.2,26.699999999999996,False,12
+179,Black Panther,Disney,97,75,3.1,Singapore,Disney,Black Panther,81.20000000000002,43.45,False,16
+180,Moana,Marvel,119,95,3.4,Indonesia,Marvel,Moana,99.19999999999999,54.0,False,21
+181,Black Panther,NatGeo,216,52,4.5,Indonesia,NatGeo,Black Panther,125.2,61.050000000000004,True,16
+182,Incredibles 2,Pixar,265,25,3.2,Indonesia,Pixar,Incredibles 2,128.8,62.1,True,18
+183,The Lion King,Pixar,196,70,4.4,Singapore,Pixar,The Lion King,124.0,62.400000000000006,True,21
+184,Avengers: Endgame,Marvel,101,76,3.8,Singapore,Marvel,Avengers: Endgame,86.00000000000001,44.900000000000006,False,18
+185,National Geographic: Oceans,NatGeo,243,80,4.3,India,NatGeo,National Geographic: Oceans,146.39999999999998,74.75,True,12
+186,National Geographic: Oceans,Disney,117,65,3.6,Thailand,Disney,National Geographic: Oceans,87.20000000000002,44.7,False,12
+187,The Lion King,Disney,181,66,4.3,Malaysia,Disney,The Lion King,116.00000000000001,58.150000000000006,True,21
+188,Toy Story 4,Pixar,316,92,3.7,Singapore,Pixar,Toy Story 4,178.00000000000003,92.65,True,13
+189,Moana,Marvel,246,66,2.0,India,Marvel,Moana,132.8,70.0,True,21
+190,Toy Story 4,Pixar,69,37,3.6,Singapore,Pixar,Toy Story 4,56.800000000000004,26.700000000000003,False,13
